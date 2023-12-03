@@ -111,6 +111,21 @@
   white-space: nowrap;
 }
 
+.landing-page .text-wrapper-3 {
+  position: absolute;
+  top: 90px;
+  left: 1145px;
+  opacity: 0.5;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0.6px;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
 .landing-page .overlap-wrapper {
   position: absolute;
   width: 1292px;
