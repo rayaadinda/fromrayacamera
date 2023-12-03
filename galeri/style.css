@@ -1,0 +1,127 @@
+.gallery {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .gallery .overlap-wrapper {
+    width: 1366px;
+    height: 768px;
+  }
+  
+  .gallery .overlap {
+    position: relative;
+    height: 768px;
+  }
+  
+  .gallery .stories-menu {
+    position: absolute;
+    width: 1366px;
+    height: 768px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .gallery .arrow {
+    position: absolute;
+    width: 69px;
+    height: 44px;
+    top: 55px;
+    left: 56px;
+  }
+  
+  .gallery .group {
+    position: absolute;
+    width: 516px;
+    height: 302px;
+    top: 233px;
+    left: 428px;
+  }
+  
+  .gallery .overlap-group {
+    position: relative;
+    width: 510px;
+    height: 302px;
+  }
+  
+  .gallery .text-wrapper {
+    top: 91px;
+    left: 16px;
+    font-family: "Plus Jakarta Sans-Medium", Helvetica;
+    font-weight: 500;
+    position: absolute;
+    mix-blend-mode: difference;
+    color: #ffffff;
+    font-size: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .gallery .element a {
+    position: absolute;
+    top: 195px;
+    left: 7px;
+    text-decoration: none;
+    mix-blend-mode: difference;
+    font-family: "Plus Jakarta Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .gallery .div a{
+    text-decoration: none;
+    top: 0;
+    left: 0;
+    font-family: "Plus Jakarta Sans-Bold", Helvetica;
+    font-weight: 700;
+    position: absolute;
+    mix-blend-mode: difference;
+    color: #ffffff;
+    font-size: 85px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .text-wrapper a {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, #ddd 50%);
+    background-position: -0% 0;
+    background-size: 200% auto;
+    color: #ffffff;
+    font-size: 85px;
+    border-radius: 10px;
+    line-height: 1.15em;
+    text-decoration: none;
+    transition: background-position 0.5s ease-out;
+  }
+
+  .text-wrapper a:hover {
+    background-position: -99.99% 0;
+  }
+
+  .text-wrapper a,
+  .element a,
+  .div a {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, #ddd 50%);
+    background-position: -0% 0;
+    background-size: 200% auto;
+    color: #ffffff;
+    font-size: 85px;
+    border-radius: 10px;
+    line-height: 1.15em;
+    text-decoration: none;
+    transition: background-position 0.5s ease-out;
+  }
+
+  .text-wrapper a:hover,
+  .element a:hover,
+  .div a:hover {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, #ddd 50%); /* Gradien bergerak dengan warna putih */
+    background-position: -99.99% 0;
+    color: white; /* Ganti warna teks menjadi putih */
+  }

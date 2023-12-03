@@ -1,0 +1,760 @@
+.landing-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1366px;
+  height: 5762px;
+  position: relative;
+}
+
+.landing-page .footer {
+  position: absolute;
+  width: 1372px;
+  height: 261px;
+  top: 5501px;
+  left: 0;
+  background-color: transparent;
+}
+
+.landing-page .overlap-group {
+  position: relative;
+  width: 1366px;
+  height: 261px;
+  background-color: #000000;
+}
+
+.landing-page .CONNECT-WITH-ME {
+  position: absolute;
+  top: 64px;
+  left: 65px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 1.12px;
+  line-height: 39.2px;
+}
+
+.landing-page .group {
+  position: absolute;
+  width: 16px;
+  height: 19px;
+  top: 167px;
+  left: 78px;
+}
+
+.landing-page .text-wrapper {
+  position: absolute;
+  width: 148px;
+  top: 71px;
+  left: 232px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 11px;
+  letter-spacing: 0.44px;
+  line-height: 15.4px;
+  white-space: nowrap;
+}
+
+.landing-page .line {
+  position: absolute;
+  width: 2px;
+  height: 60px;
+  top: 74px;
+  left: 222px;
+}
+
+.landing-page .icon-instagram {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 96px;
+  left: 231px;
+}
+
+.landing-page .icon-linkedin {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 96px;
+  left: 274px;
+}
+
+.landing-page .icon-github {
+  position: absolute;
+  width: 29px;
+  height: 30px;
+  top: 97px;
+  left: 313px;
+}
+
+.landing-page .text-wrapper-2 {
+  position: absolute;
+  top: 71px;
+  left: 1145px;
+  opacity: 0.5;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0.6px;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-wrapper {
+  position: absolute;
+  width: 1292px;
+  height: 2317px;
+  top: 3015px;
+  left: 25px;
+}
+
+.landing-page .overlap {
+  position: relative;
+  width: 1282px;
+  height: 2317px;
+}
+
+.landing-page .overlap-2 {
+  position: absolute;
+  width: 1282px;
+  height: 1072px;
+  top: 1245px;
+  left: 0;
+}
+
+.landing-page .overlap-3 {
+  position: absolute;
+  width: 920px;
+  height: 459px;
+  top: 0;
+  left: 362px;
+}
+
+.landing-page .secondwave {
+  position: absolute;
+  width: 220px;
+  height: 331px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page .img {
+  position: absolute;
+  width: 533px;
+  height: 354px;
+  top: 0;
+  left: 387px;
+  object-fit: cover;
+}
+
+.landing-page .text-wrapper-3 {
+  position: absolute;
+  top: 249px;
+  left: 78px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 150px;
+  text-align: center;
+  letter-spacing: 28.5px;
+  line-height: 209.8px;
+  white-space: nowrap;
+}
+
+.landing-page .overlap-4 {
+  position: absolute;
+  width: 1207px;
+  height: 542px;
+  top: 367px;
+  left: 0;
+}
+
+.landing-page .secondwave-2 {
+  position: absolute;
+  width: 256px;
+  height: 386px;
+  top: 156px;
+  left: 951px;
+  object-fit: cover;
+}
+
+.landing-page .secondwave-3 {
+  position: absolute;
+  width: 395px;
+  height: 262px;
+  top: 218px;
+  left: 441px;
+  object-fit: cover;
+}
+
+.landing-page .secondwave-4 {
+  position: absolute;
+  width: 362px;
+  height: 240px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page .text-wrapper-4 {
+  position: absolute;
+  top: 92px;
+  left: 265px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 150px;
+  text-align: center;
+  letter-spacing: 28.5px;
+  line-height: 209.8px;
+  white-space: nowrap;
+}
+
+.landing-page .secondwave-5 {
+  position: absolute;
+  width: 249px;
+  height: 376px;
+  top: 696px;
+  left: 113px;
+  object-fit: cover;
+}
+
+.landing-page .secondwave-6 {
+  position: absolute;
+  width: 244px;
+  height: 368px;
+  top: 898px;
+  left: 42px;
+  object-fit: cover;
+}
+
+.landing-page .secondwave-7 {
+  position: absolute;
+  width: 384px;
+  height: 254px;
+  top: 898px;
+  left: 390px;
+  object-fit: cover;
+}
+
+.landing-page .overlap-5 {
+  position: absolute;
+  width: 1123px;
+  height: 1050px;
+  top: 0;
+  left: 140px;
+}
+
+.landing-page .overlap-6 {
+  position: absolute;
+  width: 873px;
+  height: 843px;
+  top: 0;
+  left: 0;
+}
+
+.landing-page .secondwave-8 {
+  position: absolute;
+  width: 313px;
+  height: 208px;
+  top: 108px;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page .secondwave-9 {
+  position: absolute;
+  width: 220px;
+  height: 341px;
+  top: 275px;
+  left: 653px;
+  object-fit: cover;
+}
+
+.landing-page .secondwave-10 {
+  position: absolute;
+  width: 403px;
+  height: 267px;
+  top: 576px;
+  left: 156px;
+  object-fit: cover;
+}
+
+.landing-page .text-wrapper-5 {
+  position: absolute;
+  top: 471px;
+  left: 187px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 150px;
+  text-align: center;
+  letter-spacing: 28.5px;
+  line-height: 209.8px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-6 {
+  position: absolute;
+  top: 0;
+  left: 214px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 150px;
+  text-align: center;
+  letter-spacing: 28.5px;
+  line-height: 209.8px;
+  white-space: nowrap;
+}
+
+.landing-page .text-wrapper-7 {
+  position: absolute;
+  top: 236px;
+  left: 290px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 150px;
+  text-align: center;
+  letter-spacing: 28.5px;
+  line-height: 209.8px;
+  white-space: nowrap;
+}
+
+.landing-page .secondwave-11 {
+  position: absolute;
+  width: 387px;
+  height: 256px;
+  top: 794px;
+  left: 736px;
+  object-fit: cover;
+}
+
+.landing-page .group-2 {
+  position: absolute;
+  width: 1144px;
+  height: 369px;
+  top: 2478px;
+  left: 89px;
+}
+
+.landing-page .secondwave-12 {
+  position: absolute;
+  width: 545px;
+  height: 361px;
+  top: 8px;
+  left: 0;
+  object-fit: cover;
+}
+
+.landing-page .text-wrapper-8 {
+  position: absolute;
+  top: 0;
+  left: 603px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .p {
+  position: absolute;
+  width: 537px;
+  top: 89px;
+  left: 603px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .overlap-group-wrapper {
+  position: absolute;
+  width: 1368px;
+  height: 724px;
+  top: 1586px;
+  left: 0;
+}
+
+.landing-page .lorem-ipsum-dolor-wrapper {
+  position: relative;
+  width: 1366px;
+  height: 724px;
+  background-image: url(./img/secondwave405994-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.landing-page .lorem-ipsum-dolor {
+  position: absolute;
+  width: 1104px;
+  top: 109px;
+  left: 131px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 1;
+}
+
+.landing-page .group-wrapper {
+  position: absolute;
+  width: 1259px;
+  height: 525px;
+  top: 900px;
+  left: 62px;
+}
+
+.landing-page .GRID-wrapper {
+  height: 52\px;
+}
+
+.landing-page .GRID {
+  position: relative;
+  width: 1259px;
+  height: 525px;
+}
+
+.landing-page .pic {
+  position: absolute;
+  width: 378px;
+  height: 233px;
+  top: 2px;
+  left: 881px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.landing-page .pic-2 {
+  position: absolute;
+  width: 379px;
+  height: 233px;
+  top: 291px;
+  left: 0;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.landing-page .pic-3 {
+  position: absolute;
+  width: 378px;
+  height: 233px;
+  top: 292px;
+  left: 441px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.landing-page .pic-4 {
+  position: absolute;
+  width: 378px;
+  height: 234px;
+  top: 291px;
+  left: 881px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.landing-page .pic-5 {
+  position: absolute;
+  width: 379px;
+  height: 234px;
+  top: 0;
+  left: 439px;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.landing-page .pic-6 {
+  position: absolute;
+  width: 378px;
+  height: 235px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease;
+  object-fit: cover;
+}
+
+.landing-page .navbar {
+  position: absolute;
+  width: 1166px;
+  height: 63px;
+  top: 27px;
+  left: 94px;
+}
+
+.landing-page .codicon-menu {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 13px;
+  left: 1126px;
+}
+
+.landing-page .image {
+  width: 88px;
+  height: 63px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.landing-page .hero {
+  position: absolute;
+  width: 1182px;
+  height: 560px;
+  top: 111px;
+  left: 62px;
+  opacity: 1;
+  transform: translate(25px, 0);
+}
+
+.landing-page .aside {
+  position: absolute;
+  width: 570px;
+  height: 319px;
+  top: 0;
+  left: 614px;
+  transition: all 0.2s ease;
+}
+
+.landing-page .overlap-group-2 {
+  position: relative;
+  width: 568px;
+  height: 319px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 5px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 25px #ffffff;
+  &:hover {
+    transition: all 0.1s ease-out;
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+    background-color: white;
+  }
+
+  &:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: -16px;
+    right: -16px;
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    transform: scale(2);
+    transform-origin: 50% 50%;
+    transition: transform 0.15s ease-out;
+  }
+
+  &:hover:before {
+    transform: scale(2.15);
+  }
+}
+
+
+.landing-page .overlap-7 {
+  position: absolute;
+  width: 417px;
+  height: 262px;
+  top: 13px;
+  left: 25px;
+}
+
+.landing-page .image-2 {
+  width: 306px;
+  height: 241px;
+  top: 21px;
+  left: 111px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.landing-page .DISCOVER-OUR-GALLERY {
+  position: absolute;
+  width: 124px;
+  top: 0;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .arrow {
+  top: 14px;
+  left: 513px;
+  position: absolute;
+  width: 35px;
+  height: 34px;
+}
+
+.landing-page .div-wrapper {
+  position: absolute;
+  width: 598px;
+  height: 560px;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease-in-out;
+}
+
+.landing-page .overlap-8 {
+  position: relative;
+  width: 596px;
+  height: 560px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 5px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 25.1px #ffffff;
+  &:hover {
+    transition: all 0.1s ease-out;
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+    background-color: white;
+  }
+
+  &:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: -16px;
+    right: -16px;
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    transform: scale(2);
+    transform-origin: 50% 50%;
+    transition: transform 0.15s ease-out;
+  }
+
+  &:hover:before {
+    transform: scale(2.15);
+  }
+}
+
+
+.landing-page .image-3 {
+  width: 164px;
+  height: 442px;
+  top: 44px;
+  left: 334px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.landing-page .discover-my-film {
+  position: absolute;
+  width: 338px;
+  top: 150px;
+  left: 48px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .aside-2 {
+  position: absolute;
+  width: 570px;
+  height: 222px;
+  top: 338px;
+  left: 614px;
+  transition: all 0.2s ease;
+}
+
+.landing-page .overlap-9 {
+  position: relative;
+  width: 568px;
+  height: 222px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 5px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 25px #ffffff;
+  &:hover {
+    transition: all 0.1s ease-out;
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+    background-color: white;
+  }
+
+  &:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: -16px;
+    right: -16px;
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    transform: scale(2);
+    transform-origin: 50% 50%;
+    transition: transform 0.15s ease-out;
+  }
+
+  &:hover:before {
+    transform: scale(2.15);
+  }
+}
+
+
+.landing-page .about-me {
+  position: absolute;
+  width: 98px;
+  top: 8px;
+  left: 19px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landing-page .image-4 {
+  width: 247px;
+  height: 176px;
+  top: 8px;
+  left: 155px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.landing-page .arrow-2 {
+  top: 5px;
+  left: 511px;
+  position: absolute;
+  width: 35px;
+  height: 34px;
+}

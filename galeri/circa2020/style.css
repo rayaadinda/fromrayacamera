@@ -1,0 +1,196 @@
+.circa {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.circa .div {
+  background-color: #ffffff;
+  width: 1366px;
+  height: 4608px;
+  position: relative;
+}
+
+.circa .text-wrapper {
+  position: absolute;
+  top: 86px;
+  left: 115px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .k {
+  position: absolute;
+  width: 1120px;
+  height: 726px;
+  top: 192px;
+  left: 123px;
+  object-fit: cover;
+}
+
+.circa .p {
+  position: absolute;
+  width: 566px;
+  top: 66px;
+  left: 696px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .text-wrapper-2 {
+  width: 566px;
+  top: 1598px;
+  left: 690px;
+  position: absolute;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .text-wrapper-3 {
+  width: 1133px;
+  top: 3568px;
+  left: 123px;
+  text-align: center;
+  position: absolute;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .k-vision-d {
+  position: absolute;
+  width: 528px;
+  height: 734px;
+  top: 1112px;
+  left: 123px;
+  object-fit: cover;
+}
+
+.circa .fromrayacamera {
+  position: absolute;
+  top: 999px;
+  left: 354px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .fromrayacamera-2 {
+  position: absolute;
+  top: 2686px;
+  left: 354px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .img {
+  position: absolute;
+  width: 560px;
+  height: 465px;
+  top: 1112px;
+  left: 683px;
+  object-fit: cover;
+}
+
+.circa .k-2 {
+  position: absolute;
+  width: 1133px;
+  height: 662px;
+  top: 1938px;
+  left: 123px;
+  object-fit: cover;
+}
+
+.circa .k-3 {
+  position: absolute;
+  width: 528px;
+  height: 734px;
+  top: 2794px;
+  left: 123px;
+  object-fit: cover;
+}
+
+.circa .k-4 {
+  position: absolute;
+  width: 528px;
+  height: 734px;
+  top: 2794px;
+  left: 728px;
+  object-fit: cover;
+}
+
+.circa .k-5 {
+  position: absolute;
+  width: 1133px;
+  height: 751px;
+  top: 3728px;
+  left: 123px;
+  object-fit: cover;
+}
+
+.circa .footer {
+  position: absolute;
+  width: 1137px;
+  height: 24px;
+  top: 4533px;
+  left: 123px;
+  background-color: transparent;
+}
+
+.circa .text-wrapper-4 {
+  position: absolute;
+  width: 155px;
+  top: 0;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .terms-privacy {
+  position: absolute;
+  width: 106px;
+  top: 8px;
+  left: 1027px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.circa .arrow {
+  position: absolute;
+  width: 33px;
+  height: 29px;
+  top: 34px;
+  left: 40px;
+}
