@@ -348,3 +348,32 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
+
+button {
+  background-color: #163057;
+  border: none;
+  position: absolute;
+  top: 60px;
+  left: 430px;
+  border-radius: 10px;
+  padding: 15px 20px;
+  color: #ffffff;
+  font-size: 17px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  transition:0.5s;
+  text-align: center;
+  overflow: hidden;
+  z-index: 1;
+  transition: color 150ms ease-in-out;
+}
+
+
+
+button:hover {
+  background-color: white;
+  color: #000000;
+ 
+  transform:scale(1.1)
+}
