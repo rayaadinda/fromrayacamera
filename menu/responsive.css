@@ -1,0 +1,432 @@
+/* Responsive Mobile Optimizations for Fromrayacamera */
+
+/* Tablet Devices (768px and below) */
+@media screen and (max-width: 768px) {
+  .landing-page .div {
+    width: 100%;
+    max-width: 768px;
+    height: auto;
+  }
+
+  .landing-page .navbar {
+    width: 90%;
+    left: 5%;
+    right: 5%;
+  }
+
+  .landing-page .codicon-menu {
+    left: auto;
+    right: 20px;
+  }
+
+  .landing-page .hero {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    flex-direction: column;
+  }
+
+  .landing-page .aside,
+  .landing-page .aside-2,
+  .landing-page .div-wrapper {
+    position: relative;
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin-bottom: 20px;
+  }
+
+  .landing-page .overlap-group-2,
+  .landing-page .overlap-8,
+  .landing-page .overlap-9 {
+    width: 100%;
+  }
+
+  .landing-page .text-wrapper-3,
+  .landing-page .text-wrapper-4,
+  .landing-page .text-wrapper-5,
+  .landing-page .text-wrapper-6,
+  .landing-page .text-wrapper-7 {
+    font-size: 80px;
+    letter-spacing: 15px;
+    line-height: 110px;
+  }
+
+  .landing-page .discover-my-film {
+    font-size: 32px;
+  }
+
+  .landing-page .GRID {
+    width: 100%;
+    height: auto;
+  }
+
+  .landing-page .pic,
+  .landing-page .pic-2,
+  .landing-page .pic-3,
+  .landing-page .pic-4,
+  .landing-page .pic-5,
+  .landing-page .pic-6 {
+    width: 48%;
+    height: auto;
+    position: relative;
+    display: inline-block;
+    margin: 1%;
+  }
+
+  .landing-page .group-2 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    flex-direction: column;
+  }
+
+  .landing-page .secondwave-12 {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-bottom: 20px;
+  }
+
+  .landing-page .p {
+    width: 100%;
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+
+  .landing-page .lorem-ipsum-dolor {
+    width: 90%;
+    left: 5%;
+    font-size: 24px;
+  }
+
+  .landing-page .footer {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .landing-page .overlap-group {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+  }
+
+  .landing-page .CONNECT-WITH-ME {
+    position: relative;
+    left: 20px;
+  }
+
+  .landing-page .overlap-wrapper {
+    width: 100%;
+    height: auto;
+    left: 0;
+  }
+
+  .landing-page .overlap,
+  .landing-page .overlap-2,
+  .landing-page .overlap-3,
+  .landing-page .overlap-4,
+  .landing-page .overlap-5,
+  .landing-page .overlap-6 {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .landing-page .secondwave,
+  .landing-page .img,
+  .landing-page .secondwave-2,
+  .landing-page .secondwave-3,
+  .landing-page .secondwave-4,
+  .landing-page .secondwave-5,
+  .landing-page .secondwave-6,
+  .landing-page .secondwave-7,
+  .landing-page .secondwave-8,
+  .landing-page .secondwave-9,
+  .landing-page .secondwave-10,
+  .landing-page .secondwave-11 {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin-bottom: 10px;
+    left: 0;
+    top: 0;
+  }
+}
+
+/* Mobile Devices (480px and below) */
+@media screen and (max-width: 480px) {
+  .landing-page .text-wrapper-3,
+  .landing-page .text-wrapper-4,
+  .landing-page .text-wrapper-5,
+  .landing-page .text-wrapper-6,
+  .landing-page .text-wrapper-7 {
+    font-size: 48px;
+    letter-spacing: 8px;
+    line-height: 65px;
+  }
+
+  .landing-page .discover-my-film {
+    font-size: 24px;
+    width: 90%;
+    left: 5%;
+  }
+
+  .landing-page .DISCOVER-OUR-GALLERY {
+    font-size: 16px;
+  }
+
+  .landing-page .about-me {
+    font-size: 20px;
+  }
+
+  .landing-page .pic,
+  .landing-page .pic-2,
+  .landing-page .pic-3,
+  .landing-page .pic-4,
+  .landing-page .pic-5,
+  .landing-page .pic-6 {
+    width: 100%;
+    height: auto;
+    margin: 2% 0;
+  }
+
+  .landing-page .lorem-ipsum-dolor {
+    font-size: 18px;
+  }
+
+  .landing-page .p {
+    font-size: 16px;
+  }
+
+  .landing-page .text-wrapper-8 {
+    font-size: 32px;
+  }
+
+  .landing-page .navbar {
+    width: 95%;
+    left: 2.5%;
+  }
+
+  .landing-page .icon-instagram,
+  .landing-page .icon-linkedin,
+  .landing-page .icon-github {
+    position: relative;
+    display: inline-block;
+    margin: 10px 5px;
+  }
+
+  .landing-page .text-wrapper,
+  .landing-page .text-wrapper-2 {
+    position: relative;
+    left: 20px;
+    width: 90%;
+  }
+}
+
+/* About Me Page Responsive */
+@media screen and (max-width: 768px) {
+  .about-me .div {
+    width: 100%;
+    height: auto;
+  }
+
+  .about-me .overlap {
+    width: 100%;
+    height: auto;
+  }
+
+  .about-me .group {
+    width: 100%;
+    height: auto;
+  }
+
+  .about-me .overlap-group {
+    width: 100%;
+    height: auto;
+  }
+
+  .about-me .image {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .about-me .flexcontainer {
+    width: 90%;
+    margin: 0 5%;
+  }
+
+  .about-me .text-wrapper-2 {
+    font-size: 40px;
+  }
+
+  .about-me button {
+    width: 90%;
+    margin: 20px 5%;
+  }
+}
+
+/* Gallery Pages Responsive */
+@media screen and (max-width: 768px) {
+  .circa .div {
+    width: 100%;
+    height: auto;
+  }
+
+  .circa .text-wrapper-4,
+  .circa .element {
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+
+  .circa .secondwave,
+  .circa .img,
+  .circa .secondwave-2,
+  .circa .secondwave-3,
+  .circa .secondwave-4,
+  .circa .secondwave-5 {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin: 10px 0;
+    left: 0;
+    top: 0;
+  }
+
+  .circa .fromrayacamera,
+  .circa .text-wrapper,
+  .circa .fromrayacamera-2,
+  .circa .p,
+  .circa .text-wrapper-2 {
+    width: 90%;
+    left: 5%;
+    position: relative;
+    font-size: 16px;
+  }
+
+  .circa .BLOCK {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .circa .MIG,
+  .circa .MIG-2 {
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin: 10px 0;
+  }
+
+  .circa .footer {
+    width: 100%;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .circa .text-wrapper-4,
+  .circa .element {
+    font-size: 32px;
+  }
+
+  .circa .fromrayacamera,
+  .circa .text-wrapper,
+  .circa .fromrayacamera-2 {
+    font-size: 14px;
+  }
+}
+
+/* Menu Page Responsive */
+@media screen and (max-width: 768px) {
+  .menu .div {
+    width: 100%;
+    height: auto;
+  }
+
+  .menu .group {
+    width: 90%;
+    left: 5%;
+    top: 100px;
+  }
+
+  .menu .about,
+  .menu .project,
+  .menu .team {
+    width: 100%;
+    position: relative;
+    margin: 20px 0;
+  }
+
+  .menu .home,
+  .menu .gallery,
+  .menu .text-wrapper {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .menu .codicon-menu {
+    left: auto;
+    right: 20px;
+  }
+}
+
+/* Gallery List Page Responsive */
+@media screen and (max-width: 768px) {
+  .gallery .overlap-wrapper {
+    width: 100%;
+  }
+
+  .gallery .overlap {
+    width: 100%;
+    height: auto;
+  }
+
+  .gallery .group {
+    width: 90%;
+    left: 5%;
+    height: auto;
+    top: 100px;
+  }
+
+  .gallery .overlap-group {
+    width: 100%;
+    height: auto;
+  }
+
+  .gallery .text-wrapper,
+  .gallery .element,
+  .gallery .div {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 32px;
+  }
+}
+
+/* Performance Optimizations */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Touch-friendly improvements */
+@media (hover: none) and (pointer: coarse) {
+  a, button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  .landing-page .codicon-menu {
+    width: 44px;
+    height: 44px;
+  }
+}
